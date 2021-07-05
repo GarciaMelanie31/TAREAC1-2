@@ -1,10 +1,10 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-#include "alumno1.h"
-#include "alumno2.h"
-#include "alumno3.h"
-#include "alumno4.h"
+#include "colaborador1.h"
+#include "colaborador2.h"
+#include "colaborador3.h"
+#include "colaborador4.h"
 //#include "colaborador5.h"
 
 void mostrar(float (*r)[5])
