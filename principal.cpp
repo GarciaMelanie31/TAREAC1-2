@@ -6,7 +6,7 @@ using namespace std;
 #include "colaborador2.h"
 #include "colaborador3.h"
 #include "colaborador4.h"
-//#include "colaborador5.h"
+#include "colaborador5.h"
 
 void mostrar(float (*r)[5])
 {
@@ -51,9 +51,9 @@ int main() {
 				transpuesta(matriz1,resultado);
 				mostrar(resultado);
 				break;
-			//case 5:
-				//mediayvarianza(matriz1,matriz2);
-				//break;
+			case 5:
+				mediayvarianza(matriz1,matriz2);
+				break;
 		}
 		if(op!=0){
 			cout<<"Opcion no permitida !\n" << "Press Enter to continue\n";
