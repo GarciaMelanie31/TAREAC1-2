@@ -1,11 +1,6 @@
 void ingresar(float (*m1)[5], float(*m2)[5])
 {
 	int f,c;
-	//  cout<<"Ingrese el numero de filas: "<<endl;
-	  //cin>>f;
-	  //cout<<"Ingrese el numero de columnas: "<<endl;
-	  //cin>>c;
-	  //int matriz1[f][c], matriz2[f][c];
 	  cout<<endl;
 	  cout<<"Ingrese los valores de la matriz 1"<<endl;
 	for(int i=0;i<5;i++){
