@@ -1,4 +1,4 @@
-//COLABORADOR5 - INGRESES SU NOMBRE
+//COLABORADOR5 - RAMIREZ PEREA JONATHAN
 void mediayvarianza(float (*m1)[5], float (*m2)[5])
 {
   cout<<"\nel resultado de la media de la matriz 1 es:";
