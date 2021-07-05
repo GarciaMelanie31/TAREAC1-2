@@ -1,3 +1,4 @@
+//COLABORADOR1 - GARCIA WILA MELANIE
 void ingresar(float (*m1)[5], float(*m2)[5])
 {
 	int f,c;
