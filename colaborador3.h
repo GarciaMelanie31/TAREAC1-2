@@ -1,4 +1,4 @@
-//COLABORADOR3 - INGRESE SU NOMBRE
+//COLABORADOR3 - MANZABA ESCALANTE ALBERTO MOISÉS
 void potencia(float (*m1)[5], int p, float (*r)[5])
 {
     int f1,c2,k;
