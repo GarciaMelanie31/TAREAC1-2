@@ -1,4 +1,4 @@
-//COLABORADOR4 - CESAR GEOVANNY MUSO LLUMIQUINGA
+//COLABORADOR4 - CÉSAR GEOVANNY MUSO LLUMIQUINGA
 void transpuesta(float (*m1)[5], float (*r)[5])
 {
 	for(int i=0;i<5;i++){
